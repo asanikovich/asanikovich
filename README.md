@@ -1,9 +1,9 @@
 <p align="center">
-	<a href="https://github.com/allok" target="_blank">
-    <img align="center" src="https://komarev.com/ghpvc/?username=allok&label=Visitors&color=0e75b6&style=flat" alt="allok" />
+	<a href="https://github.com/asanikovich" target="_blank">
+    <img align="center" src="https://komarev.com/ghpvc/?username=asanikovich&label=Visitors&color=0e75b6&style=flat" alt="asanikovich" />
 	</a>
-	<a href="https://github.com/allok?tab=followers" target="_blank">
-		<img align="center" src="https://img.shields.io/github/followers/allok?style=social" />
+	<a href="https://github.com/asanikovich?tab=followers" target="_blank">
+		<img align="center" src="https://img.shields.io/github/followers/asanikovich?style=social" />
 	</a>
 </p>
 
