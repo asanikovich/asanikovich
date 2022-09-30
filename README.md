@@ -11,7 +11,7 @@
 <h3 align="center">I’m an engineer at heart and a jack of all trades kind of guy.<br>
 	Currently working as a PHP Senior Developer at <a href="https://www.apalon.com/">Apalon</a></h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allok" alt="allok" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asanikovich" alt="asanikovich" /></a> </p>
 
 - 🔭 I’m currently working on **[building the best apps](https://www.apalon.com/applications.html)**
 
@@ -68,9 +68,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50px" height="50px"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allok&show_icons=true&locale=en&layout=compact" alt="allok" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asanikovich&show_icons=true&locale=en&layout=compact" alt="asanikovich" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allok&show_icons=true&locale=en" alt="allok" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asanikovich&show_icons=true&locale=en" alt="asanikovich" /></p>
 
 <!--
 **allok/allok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
