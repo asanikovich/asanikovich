@@ -7,7 +7,9 @@
 	</a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Aleksey Sanikovich</h1>
+<h1 align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi 👋, I'm Aleksey Sanikovich)](https://git.io/typing-svg)
+</h1>
 <h3 align="center">I’m an engineer at heart and a jack of all trades kind of guy.<br>
 	Currently working as a PHP Senior Developer at <a href="https://www.apalon.com/">Apalon</a></h3>
 
