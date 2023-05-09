@@ -9,8 +9,8 @@
 
 <h3 align="center">
 	<p><img align="center" alt="Hi 👋, I'm Aleksey Sanikovich" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+👋,+I'm+Aleksey+Sanikovich"/></p>
+		<p>PHP/Golang Senior Software Engineer at <a href="https://coinspaid.com/">CoinsPaid</a></p>
 	<p><img align="center" alt="I’m an engineer at heart and a jack of all trades kind of guy." src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+an+engineer+at+heart+and+a+jack+of+all+trades+kind+of+guy"/></p>
-	<p>Currently working as a PHP/Golang Senior Software Engineer at <a href="https://coinspaid.com/">CoinsPaid</a></p>
 </h3>
 
 - 🔭 I’m currently working on building a secure crypto payment gateway at **[CoinsPaid](https://coinspaid.com/)**
