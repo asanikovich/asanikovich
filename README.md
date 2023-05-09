@@ -7,27 +7,24 @@
 	</a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+👋,+I'm+Aleksey+Sanikovich)](https://git.io/typing-svg)
-<h3 align="center">I’m an engineer at heart and a jack of all trades kind of guy.<br>
-	Currently working as a PHP Senior Developer at <a href="https://www.apalon.com/">Apalon</a></h3>
+<h3 align="center">
+	<p><img align="center" alt="Hi 👋, I'm Aleksey Sanikovich" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+👋,+I'm+Aleksey+Sanikovich"/></p>
+	<p><img align="center" alt="I’m an engineer at heart and a jack of all trades kind of guy." src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+an+engineer+at+heart+and+a+jack+of+all+trades+kind+of+guy"/></p>
+	<p>Currently working as a PHP/Golang Senior Software Engineer at <a href="https://coinspaid.com/">CoinsPaid</a></p>
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asanikovich" alt="asanikovich" /></a> </p>
-
-- 🔭 I’m currently working on **[building the best apps](https://www.apalon.com/applications.html)**
-
-- 🌱 I’m currently improve in **Go lang**
-
-- 💬 Ask me about **Laravel Framework 🙂**
-
-- 📫 How to reach me **asanikovich@gmail.com**
+- 🔭 I’m currently working on building a secure crypto payment gateway at **[CoinsPaid](https://coinspaid.com/)**
+- 🌱 I’m currently improve in **Golang**
+- 💬 Ask me about **Laravel and Symfony Frameworks 🙂**
 
 <h3 align="left">📫 Connect with me</h3>
 <p align="left">
+<a href="mailto:asanikovich@gmail.com" target="blank">asanikovich@gmail.com</a>
     <a href="https://www.linkedin.com/in/alsan/" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[nikola-brežnjak-892b9a24](https://www.linkedin.com/in/alsan/)" height="30" width="40" />
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[https://www.linkedin.com/in/alsan/](https://www.linkedin.com/in/alsan/)" height="30" width="40" />
   </a>
     <a href="https://stackoverflow.com/users/4281796/alsan" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="534755" height="30" width="40" />
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/4281796/alsan" height="30" width="40" />
   </a>
 </p>
 
@@ -37,7 +34,7 @@
   </a>
 </p>
 
-<h3 align="left">🛠 Languages and Tools used</h3>
+# 🛠 Languages and Tools used
 
 <h4 align="left">Languages</h4>
 <p>
@@ -68,10 +65,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50px" height="50px"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asanikovich&show_icons=true&locale=en&layout=compact" alt="asanikovich" /></p>
+# 📊 GitHub Stats
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=asanikovich&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanikovich&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" style="max-width: 100%;" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asanikovich&show_icons=true&locale=en" alt="asanikovich" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=asanikovich&theme=default&hide_border=false)<br/>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=asanikovich&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 <!--
 **allok/allok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
