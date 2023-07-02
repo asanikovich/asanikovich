@@ -19,17 +19,14 @@
 <h3 align="left">📫 Connect with me</h3>
 <p align="left">
 <a href="mailto:asanikovich@gmail.com" target="blank">asanikovich@gmail.com</a>
-    <a href="https://www.linkedin.com/in/alsan/" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[https://www.linkedin.com/in/alsan/](https://www.linkedin.com/in/alsan/)" height="30" width="40" />
-  </a>
-    <a href="https://stackoverflow.com/users/4281796/alsan" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/4281796/alsan" height="30" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/alsan/" target="blank" title="linkedin alsan">
+	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin alsan" height="30" width="40" />
+</a>
 </p>
 
 <p>  
-  <a href="https://stackoverflow.com/users/4281796/alsan" target="blank">
-    <img src="https://stackoverflow.com/users/flair/4281796.png"/>
+  <a href="https://stackoverflow.com/users/4281796/alsan" target="blank" title="stackoverflow.com alsan">
+    <img src="https://stackoverflow.com/users/flair/4281796.png" alt="stackoverflow.com alsan"/>
   </a>
 </p>
 
