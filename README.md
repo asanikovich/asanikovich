@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-<p><img align="center" alt="Hi 👋, I'm Aleksey Sanikovich" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+👋,+I'm+Aleksey+Sanikovich"/></p>
+<p><img align="center" alt="Hi 👋, I'm Aliaksei Sanikovich" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+👋,+I'm+Aliaksei+Sanikovich"/></p>
 <p><img align="center" alt="PHP/Golang Senior Software Engineer" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=PHP/Golang+Developer"/></p>
 </h3>
 
