@@ -12,7 +12,7 @@
 <p><img align="center" alt="PHP/Golang Senior Software Engineer" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=PHP/Golang+Developer"/></p>
 </h3>
 
-- 🔭 I’m currently working on building a secure crypto payment gateway at **[CoinsPaid](https://coinspaid.com/)**
+- 🔭 I’m currently working on building a secure crypto payment gateway
 - 🌱 I’m currently improving in **Golang**
 - 💬 Ask me about **Laravel and Symfony Frameworks 🙂**
 
